@@ -1,0 +1,14 @@
+# user 12 S0PRS32.44-11-10-26 471ea release-keys
+- manufacturer: motorola
+- platform: trinket
+- codename: sofiap_sprout
+- flavor: user
+- release: 12
+- id: S0PRS32.44-11-10-26
+- incremental: 471ea
+- tags: release-keys
+- fingerprint: motorola/sofiap_ao/sofiap_sprout:11/S0PRS32.44-11-10-26/471ea:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-12-S0PRS32.44-11-10-26-471ea-release-keys
+- repo: motorola_sofiap_sprout_dump
