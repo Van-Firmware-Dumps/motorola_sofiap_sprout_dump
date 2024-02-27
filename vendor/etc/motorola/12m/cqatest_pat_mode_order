@@ -1,0 +1,4 @@
+com.motorola.motocit.hall.StylusPen
+com.motorola.motocit.vibrator.VibratorTest
+com.motorola.motocit.fingerprint.FingerPrintTest
+com.motorola.motocit.audio.AudioLoopBack
